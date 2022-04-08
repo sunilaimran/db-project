@@ -40,6 +40,7 @@ TO GET YOURSELF FAMILIAR WITH HR DATABASE
 */
 
 /**
+ -------------- DISTINCT----------
   Only Getting Unique value from the result
   for example, only get unique first name from employees table
  */
